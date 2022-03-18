@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuilioFanton
-- 👀 I’m interested in Next.js and Laravel
+- 👀 I’m interested in AdonisJS and Laravel
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach me duilio@duiliofanton.com.br
 
