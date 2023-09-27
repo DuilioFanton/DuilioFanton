@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DuilioFanton
-- 👀 I’m interested in Laravel, Next.JS
-- 🌱 I’m currently Laravel with Breeze API with Next.JS
+- 👀 I’m interested in Laravel, FilamentPHP
+- 🌱 I’m currently FilamentPHP with Laravel
 - 📫 How to reach me duilio@duiliofanton.com.br, duilio.fanton0@gmail.com
 
 <!---
