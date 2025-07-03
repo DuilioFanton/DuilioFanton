@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DuilioFanton
 - 👀 I’m interested in Laravel, Hyperf and FilamentPHP
 - 🌱 I’m currently Hyperf.
-- 📫 How to reach me duilio.fanton0@gmail.com
+- 📫 How to reach me @duiliofanton
 
 <!---
 DuilioFanton/DuilioFanton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
