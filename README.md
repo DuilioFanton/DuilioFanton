@@ -37,9 +37,9 @@
 
 ### 🎓 Academic Background
 
-- **Bachelor’s in Computer Engineering**
-- **Postgraduate in Software Engineering**
-- **Currently starting a Master’s in Software Architecture**
+- **B.Sc. in Computer Engineering** — UNIPINHAL (Centro Regional Universitário de Espírito Santo do Pinhal)  
+- **Postgraduate in Software Engineering** — UNICAMP (Universidade Estadual de Campinas)  
+- **M.Sc. in Software Architecture (in progress)** — UNICAMP (Universidade Estadual de Campinas)
 
 ---
 
