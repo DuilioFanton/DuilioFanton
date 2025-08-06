@@ -35,6 +35,14 @@
 
 ---
 
+### 🎓 Academic Background
+
+- **Bachelor’s in Computer Engineering**
+- **Postgraduate in Software Engineering**
+- **Currently starting a Master’s in Software Architecture**
+
+---
+
 ### 🧩 About Me
 
 I’m a **Principal Full Stack Engineer** with deep expertise in Laravel and modern PHP.  
