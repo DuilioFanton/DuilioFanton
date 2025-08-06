@@ -23,8 +23,9 @@ Laravel Octane, Horizon, FilamentPHP, GitHub Actions, CI/CD, Laravel Cloud, Lara
 
 I’m a Principal Full Stack Engineer with deep expertise in Laravel and modern PHP, focused on building scalable, secure, and well-architected web applications. From backend systems to integrated frontend experiences, I lead with clarity, consistency, and business value in mind.
 
-Let's connect: [@duiliofanton](https://github.com/DuilioFanton)
-Let's connect: [LinkedIn](https://www.linkedin.com/in/duiliofanton)
+Github: [DuilioFanton](https://github.com/DuilioFanton)
+
+LinkedIn: [DuílioFanton](https://www.linkedin.com/in/duiliofanton)
 
 <!---
 DuilioFanton/DuilioFanton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
